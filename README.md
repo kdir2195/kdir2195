@@ -4,6 +4,18 @@ Reader
 
 # 💻 Tech Stack:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+# 🎮 Interactive Games:
+## XOX (Tic-Tac-Toe) Game
+Play XOX against AI! Comment on [this issue](https://github.com/kdir2195/kdir2195/issues) with `@xox <position>` (1-9)
+- Position grid (1-9):
+```
+1 2 3
+4 5 6
+7 8 9
+```
+**Example:** `@xox 5` to play center
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kdir2195&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kdir2195&theme=dark&hide_border=false)<br/>
