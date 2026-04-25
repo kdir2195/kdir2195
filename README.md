@@ -13,7 +13,7 @@ Reader
 ![](https://github-profile-trophy.vercel.app/?username=kdir2195&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quote
-![](believe in yourself)
+   believe in yourself
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kdir2195&limit=5&theme=dark&combine_all_yearly_contributions=true)
