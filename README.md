@@ -9,6 +9,8 @@ Reader
 ![](https://streak-stats.demolab.com/?user=kdir2195&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kdir2195&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kdir2195&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
